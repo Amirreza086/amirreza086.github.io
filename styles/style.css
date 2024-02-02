@@ -1983,7 +1983,7 @@ body {
 }
 
 /*Menu Update*/
-#menu-update {
+.menu-update {
   background-color: #FFF;
   position: fixed;
   z-index: 9999;
@@ -2008,7 +2008,7 @@ body {
   pointer-events: all !important;
 }
 
-#menu-install-pwa-ios {
+.menu-install-pwa-ios {
   overflow: visible !important;
 }
 
@@ -6846,7 +6846,7 @@ input[type=number] {
 
 /*Styles used to showcase the demo product on ThemeForest and create backgrounds. These can be deleted to increase speed of loading*/
 .bg-0 {
-  background-image: url(../images/pictures/0l.jpg);
+  background-image: url(../images/pictures/6.jpg);
 }
 
 .bg-1 {
@@ -6886,7 +6886,7 @@ input[type=number] {
 }
 
 .bg-10 {
-  background-image: url(../images/pictures/6.jpg);
+  background-image: url(../images/pictures/10.jpg);
 }
 
 .bg-11 {

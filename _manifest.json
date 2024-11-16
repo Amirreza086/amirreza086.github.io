@@ -4,7 +4,7 @@
 "name" : "زندگی سالم",
 "scope" : "https://www.no-av.ir/",
 "display" : "fullscreen",
-"start_url" : "https://www.no-av.ir/",
+"start_url" : "/",
 "short_name" : "شادابی و نشاط کودکان و نوجوانان",
 "description" : "امیررضا اسگندرزاده",
 "orientation" : "portrait",
